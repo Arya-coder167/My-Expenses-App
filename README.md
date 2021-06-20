@@ -1,4 +1,4 @@
-# Stateless Hello World
+Hello
 
 A new Flutter project created with [FlutLab](https://flutlab.io)
 
